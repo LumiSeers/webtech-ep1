@@ -1,0 +1,16 @@
+{
+  "name": "notite_proiecte_software",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "Radu Luminita",
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "^4.16.2",
+    "mysql2": "^1.5.1",
+    "nodeadmin": "^0.1.2",
+    "sequelize": "^4.31.1"
+  }
+}
